@@ -1,4 +1,4 @@
-# yote_maic
+# yote game in flutter with checkerboard design
 
 Yote Game with flutter with board 6x5
 
