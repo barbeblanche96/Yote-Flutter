@@ -1,6 +1,9 @@
-# yote game in flutter with checkerboard design
+# yote game in flutter with chessboard design
 
 Yote Game with flutter with board 6x5
+
+Implementation of a chessboard in flutter with UI update realtime
+
 
 ## Getting Started
 
